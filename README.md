@@ -233,7 +233,7 @@ Cybersecurity Professional — Batch B082
 
 🔗 **LinkedIn:** [oboth-richard-5178933b8](https://lnkd.in/p/dKWzTGsb)
 
-🔗 **GitHub Repository:** [Week 3 — Password Cracking with JTR](https://github.com/your-username/week3-password-cracking-jtr)
+🔗 **GitHub Repository:** [Week 3 — Password Cracking with JTR](https://github.com/obothrichard-glitch/NETWORKWALKS-OBOTH-RICHARD-B083-WK3-PM1-CYBERSECURITY-PASSWORD-CRACKING-WITH-JTR)
 
 ---
 
